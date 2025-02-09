@@ -1,4 +1,4 @@
-# 🚀 Tank Robot Pathfinding Using A* and Greedy Best-First Search  
+# Tank Robot Pathfinding Using A* and Greedy Best-First Search  
 
 ## 🤖 Project Overview  
 This project showcases a **tank robot** that can autonomously navigate a **5x5 grid**, avoid obstacles, and determine the most **optimal path** using two different search algorithms:  
