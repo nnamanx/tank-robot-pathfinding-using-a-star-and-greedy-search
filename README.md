@@ -30,17 +30,9 @@ From just an **Arduino, a gyroscope, and a handful of wires**, we built this sma
 
 ---
 
-## 🔧 Setup & Installation  
+## 📖 Lessons Learned
 
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/nmananx/tank-robot-pathfinding-using-a-star-and-greedy-search.git
-cd tank-robot-pathfinding-using-a-star-and-greedy-search
+🔹 Pathfinding isn’t just about speed—heuristics can sometimes mislead.
+🔹 Hardware debugging is a test of patience. 🛠️
+🔹 Exploring AI in robotics is incredibly fun!
 
-### 2️⃣ Upload Code to Arduino
-Open a_star.ino in the Arduino IDE and upload to test A*.
-Open greedy.ino to test Greedy Best-First Search.
-
-### 3️⃣ Run the Robot 
-Place the tank on a 5x5 grid with obstacles.
-Run the code and watch it navigate!
