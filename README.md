@@ -30,7 +30,9 @@ From just an **Arduino, a gyroscope, and a handful of wires**, we built this sma
 
 ## 📖 Lessons Learned
 
-🔹 Pathfinding isn’t just about speed—heuristics can sometimes mislead.
+🔹 Pathfinding isn’t just about speed—heuristics can sometimes mislead. 
+
 🔹 Hardware debugging is a test of patience. 🛠️
+
 🔹 Exploring AI in robotics is incredibly fun.😄
 
