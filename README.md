@@ -6,13 +6,12 @@ This project showcases a **tank robot** that can autonomously navigate a **5x5 g
 - **A* Algorithm** – Balances actual movement cost and heuristic estimates to find the shortest path.  
 - **Greedy Best-First Search** – Focuses solely on the heuristic, making fast but sometimes suboptimal decisions.  
 
-From just an **Arduino, a gyroscope, and a handful of wires**, we built this smart navigation system from scratch! 🚀  
+From just an **Arduino, a gyroscope, and a handful of wires**, we built this smart navigation system from scratch!  
 
 ---
 
 ## 📜 Features  
 ✔️ **Autonomous Pathfinding** – The tank finds its way from start to goal.  
-✔️ **Obstacle Avoidance** – Detects and maneuvers around obstacles.  
 ✔️ **Algorithm Comparison** – Tests A* vs. Greedy Best-First Search for efficiency.  
 ✔️ **Arduino-Controlled** – Powered by an **Arduino Uno** and sensors.  
 
@@ -24,7 +23,6 @@ From just an **Arduino, a gyroscope, and a handful of wires**, we built this sma
 | **Arduino Uno**  | Main controller for the robot.  |
 | **Gyroscope (IMU Sensor)**  | Tracks orientation and movement.  |
 | **Motor Driver**  | Controls the tank wheels.  |
-| **Ultrasonic Sensors**  | Detects obstacles in the path.  |
 | **LiPo Battery**  | Powers the system.  |
 | **Wheels & Chassis**  | Forms the base of the tank.  |
 
@@ -34,5 +32,5 @@ From just an **Arduino, a gyroscope, and a handful of wires**, we built this sma
 
 🔹 Pathfinding isn’t just about speed—heuristics can sometimes mislead.
 🔹 Hardware debugging is a test of patience. 🛠️
-🔹 Exploring AI in robotics is incredibly fun!
+🔹 Exploring AI in robotics is incredibly fun.😄
 
