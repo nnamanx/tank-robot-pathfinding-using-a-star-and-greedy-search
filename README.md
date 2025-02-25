@@ -1,6 +1,6 @@
 # Tank Robot Pathfinding Using A* and Greedy Best-First Search  
 
-## 🤖 Project Overview  
+## Project Overview  
 This project showcases a **tank robot** that can autonomously navigate a **5x5 grid**, avoid obstacles, and determine the most **optimal path** using two different search algorithms:  
 
 - **A* Algorithm** – Balances actual movement cost and heuristic estimates to find the shortest path.  
@@ -10,7 +10,7 @@ From just an **Arduino, a gyroscope, and a handful of wires**, we built this sma
 
 ---
 
-## 📜 Features  
+## Features  
 ✔️ **Autonomous Pathfinding** – The tank finds its way from start to goal.  
 ✔️ **Algorithm Comparison** – Tests A* vs. Greedy Best-First Search for efficiency.  
 ✔️ **Arduino-Controlled** – Powered by an **Arduino Uno** and sensors.  
@@ -30,9 +30,9 @@ From just an **Arduino, a gyroscope, and a handful of wires**, we built this sma
 
 ## 📖 Lessons Learned
 
-🔹 Pathfinding isn’t just about speed—heuristics can sometimes mislead. 
+Pathfinding isn’t just about speed—heuristics can sometimes mislead. 
 
-🔹 Hardware debugging is a test of patience. 🛠️
+Hardware debugging is a test of patience. 🛠
 
-🔹 Exploring AI in robotics is incredibly fun.😄
+Exploring AI in robotics is incredibly fun.
 
